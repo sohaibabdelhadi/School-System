@@ -1,1 +1,2 @@
 # School-System
+## A school system has been developed using C++ and the principles of object-oriented programming. The system utilizes inheritance, encapsulation, and abstraction, with teachers and students inheriting common attributes from the person class. Composition has also been applied, with a school class including both teachers and students, along with their related methods such as adding, editing, and searching by ID. This approach allows for efficient code reuse and extensibility, making it a powerful tool for managing educational institutions.
